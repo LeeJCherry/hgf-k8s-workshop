@@ -34,6 +34,8 @@ If you are using a Mac, you can run the following (version 1.1.0 and 1.2.0 are a
     brew tap aidtechnology/homebrew-fabric
     brew install fabric-tools@1.3.0
 
+    Other: curl -sSL http://bit.ly/2ysbOFE | bash -s 1.3.0
+
 #### Generation
 
 Generate the necessary crypto-materials with
